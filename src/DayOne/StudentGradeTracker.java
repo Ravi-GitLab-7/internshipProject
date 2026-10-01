@@ -7,7 +7,7 @@ public class StudentGradeTracker {
 
     // Student class
     static class Student {
-        String name;
+        String     name;
         int rollNo;
         ArrayList<Double> marks;
 
